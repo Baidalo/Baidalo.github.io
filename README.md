@@ -7,7 +7,7 @@ Link to the webpage: https://baidalo.github.io/
 
 ### Target user
 
-The target user is anyone who can be interested in working with me or hire me.
+The target user is anyone who can be interested in working with me or hiring me, or simply anyone interested in my skills and professional background.
 
 ### Information architecture
 
