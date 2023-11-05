@@ -3,13 +3,13 @@ CV website for a university project
 
 # Project analysis
 
-<h1>Target user</h1>
+## Target user
 
 Anyone
 
-<h1>Information architecture</h1>
+## Information architecture
 
-<h1>Visual design</h1>
+## Visual design
 
 # Figma
 
