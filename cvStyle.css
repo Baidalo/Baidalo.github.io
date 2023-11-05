@@ -1,0 +1,104 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 95vh;
+    color: #01154f;
+    min-height: 100vh;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    margin: 20px 0px;
+}
+
+#MainContent {
+    flex-grow: 1;
+    padding: 1% 2%;
+}
+
+#MainContent> hr {
+    background-color: #686e8b;
+}
+
+#MainContent> div {
+    padding: 0% 2%;
+}
+
+h4 {
+    margin: 1% 0%;
+}
+
+a {
+    margin-left: 15px;
+}
+
+#LeftMenu {
+    color: white;
+    background-color: #061f56;
+    padding: 1% 2%;
+}
+
+#LeftMenu> hr {
+    background-color: white;
+}
+
+li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+h1 {
+    color: #006ba6;
+    text-align: right;
+    margin-top: 1%;
+}
+
+h3 {
+    color: #006ba6;
+    text-align: right;
+    margin-top: 1%;
+}
+
+footer {
+    position: fixed;
+    background-color: #03045e;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    padding: 2px;
+}
+
+#photo {
+    width: 100px;
+    height: 100px;
+}
+
+#phone {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+#email {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 20px;
+    height: 25px;
+}
+
+#address {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 20px;
+    height: 20px;
+}
